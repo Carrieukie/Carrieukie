@@ -1,6 +1,6 @@
 ## Hi there, I'm Eric Kariuki aka Karis 👋
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Undergraduate and Developer!
 
 - 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten.
 - 🌱 Live.Learn.Love.Grow...
