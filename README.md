@@ -1,10 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Eric Kariuki aka Karis 👋
+
+## I'm a Student, Undergraduate, Developer, and Physics Teacher!
 
 - 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten.
 - 🌱 Live.Learn.Love.Grow...
 - 👨🏽‍💻 \<code\> is \</life\>
 - 💬 Lets talk about anything positive.
-- 📫 How to reach me: kariuki931@gmail.com
+- 📫 How to reach me: 
+[<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="karis | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="karis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="karis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="karis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 - ⚡ Fun fact : I'm really interested in Augmented Reality.
 
 <a href="https://github.com/Carrieukie">
