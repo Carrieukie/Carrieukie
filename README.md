@@ -2,7 +2,7 @@
 
 - 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten.
 - 🌱 Live.Learn.Love.Grow...
-- 👨🏽‍💻 \<code\> is </life>
+- 👨🏽‍💻 \<code\> is \</life\>
 - 💬 Lets talk about anything positive.
 - 📫 How to reach me: kariuki931@gmail.com
 - ⚡ Fun fact : I'm really interested in Augmented Reality.
