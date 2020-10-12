@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mobile development.
-- 🌱 I’m currently learning Android and Later on Flutter
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about ...
-- 📫 How to reach me: kariuki931@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a textbook INTJ personality type,we form just 2% of the world population.I have a scientific or skeptical approach to the world or reality, constantly wanting to know how things work and what they are likely to do under different settings/context.I just see things differently than most people do.
+🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten.
+🌱 Live.Learn.Love.Grow...
+👨🏽‍💻 <code> is </life>
+💬 Lets talk about anything positive.
+📫 How to reach me: kariuki931@gmail.com
+⚡ Fun fact : I'm really interested in Augmented Reality.
+
+<a href="https://github.com/sabesansathananthan">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
