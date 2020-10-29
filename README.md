@@ -7,7 +7,7 @@
 - 👨🏽‍💻 \<code\> is \</life\>
 - 💬 Lets talk about anything positive or Augmented reality.
 - 📫 How to reach me: kariuki931@gmail.com
-- ⚡ Fun fact : I'm really interested in Augmented Reality. I think its the future of Fun 🥽.
+- ⚡ Fun fact : I really love augmented reality 🥽.
 
 <a href="https://github.com/Carrieukie">
 <img align="center" alt="Kariuki's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Carrieukie&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
