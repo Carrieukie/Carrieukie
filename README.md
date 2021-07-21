@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi there, I'm Karis � <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hi there, I'm Karis <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<h1 align="center">Hi there, I'm Karis  <img align="center" src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" /></h1> 
+<h1 align="center"> <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" /></h1> 
 
 
 ## About me
 
-- 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten.
+- <h1> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. <img src="https://media.giphy.com/media/d4aVHC1HKnButuXC/giphy.gif" /></h1> 
+
 
 ## Stack 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
