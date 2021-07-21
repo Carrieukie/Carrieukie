@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Karis <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" /></h1> 
+<h1 align="center"> <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" /></h1> 
 
 
 ## About me
