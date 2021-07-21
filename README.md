@@ -8,12 +8,6 @@
 
 - <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. <img src="https://media.giphy.com/media/d4aVHC1HKnButuXC/giphy.gif" width="30px"/></p> 
 
-
-## Stack 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-
 <a href="https://github.com/Carrieukie">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Carrieukie&layout=compact&theme=radical" />
 </a>
