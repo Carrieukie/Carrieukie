@@ -6,7 +6,9 @@
 
 ## About me
 
-- <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. <img src="https://media.giphy.com/media/d4aVHC1HKnButuXC/giphy.gif" width="30px"/></p> 
+- <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. <img src="https://media.giphy.com/media/d4aVHC1HKnButuXC/giphy.gif" width="30px"/></p>
+
+## Languages
 
 <a href="https://github.com/Carrieukie">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Carrieukie&layout=compact&theme=radical" />
