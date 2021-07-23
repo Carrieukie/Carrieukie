@@ -13,3 +13,6 @@
 <a href="https://github.com/Carrieukie">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Carrieukie&layout=compact&theme=radical" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrieukie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
