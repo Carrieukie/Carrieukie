@@ -13,3 +13,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrieukie&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+ [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
