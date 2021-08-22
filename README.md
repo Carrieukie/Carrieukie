@@ -6,7 +6,7 @@
 
 ## About me
 
-- <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. <img src="https://media.giphy.com/media/d4aVHC1HKnButuXC/giphy.gif" width="30px"/></p>
+- <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. </p>
 
 ## Languages
 
