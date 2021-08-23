@@ -12,7 +12,7 @@
 
 <a href="https://github.com/carrieukie/github-stats">
 
-- ![](https://github.com/carrieukie/github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/carrieukie/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
