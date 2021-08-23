@@ -8,9 +8,15 @@
 
 - <p> 🔭 "I have no special talent, I am just passionately curious." ~ Albert Einsten. </p>
 
-## Languages
+## Stats
 
+<a href="https://github.com/carrieukie/github-stats">
 
-[![Top Langs]![](https://github.com/carrieukie/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/carrieukie/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/carrieukie/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
 
  
