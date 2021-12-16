@@ -18,7 +18,14 @@
 
 ## Contributor
 
-COntributor @ [Talkself](https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself&hl=en_IE)
+Contributor @ [Talkself](https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself)
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself">
+        <img src="https://github.com/Carrieukie/Carrieukie.github.io/blob/master/googleplaylogo.png" width="40%" height="40%"/>
+    </a>
+</p>
+
 
 
  
