@@ -16,5 +16,9 @@
 
 </a>
 
+## Contributor
+
+COntributor @ [Talkself](https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself&hl=en_IE)
+
 
  
