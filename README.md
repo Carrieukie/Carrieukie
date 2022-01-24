@@ -18,7 +18,7 @@
 
 ## Contributor
 
-Contributor @ [Talkself](https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself)
+Contributor @ [Talkself.](https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself)
 
 <p align="left">
     <a href="https://play.google.com/store/apps/details?id=com.github.odaridavid.talkself">
